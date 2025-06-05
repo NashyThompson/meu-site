@@ -22,8 +22,8 @@
   <h2>Levantamento de Documentos Impressos</h2>
 
   <form id="documentForm">
-    <label>Nome (Opcional):</label>
-    <input type="text" name="nome">
+    <label>Nome:</label>
+    <input type="text" name="nome" required>
 
     <label>Setor:</label>
     <input type="text" name="setor" required>
